@@ -1,0 +1,123 @@
+.heading{
+  float: right;
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 25px;
+  letter-spacing: 1px;
+top:200px;
+}
+
+
+.info{
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 13px;
+  position: absolute;
+  letter-spacing: 2px;
+  top:220px;
+  padding-right: 100px;
+}
+body{
+    background: #de6161;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card{
+  background-color: ;
+  opacity:;
+  height:450px;
+  width:420px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left:600px;
+  right:0px;
+  border-radius: 8px;
+  border-shadown:none;
+}
+.name{
+font-weight: 700;
+opacity:;
+font-family: Courier,monospace;
+font-size: 20px;
+position: relative;
+letter-spacing: 2px;
+top:0px;
+left: 7px;
+padding-right: 100px;
+}
+.watasi{
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 2px;
+  top:0px;
+  padding-right: 100px;
+}
+.proname{
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 25px;
+  position: absolute;
+  letter-spacing: 2px;
+  top:54px;
+  left:7px;
+  padding-right: 100px;
+}
+.profes{
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 20px;
+  position: absolute;
+  letter-spacing: 2px;
+  top:64px;
+  padding-right: 100px;
+}
+.kinki{
+  font-weight: 700;
+  font-family: Courier,monospace;
+  font-size: 20px;
+  position: relative;
+  letter-spacing: 2px;
+  top:187px;
+  left:7px;
+  padding-right: 100px;
+}
+img{
+  style="border-radius: 40px;padding-bottom: 30px ;
+}
+.socialmedia{
+  width: 200px;
+  height: 200px
+  font-size: 13px;
+  position: relative;
+  padding: 10px;
+  top:220px;
+  padding-right: 100px;
+}
+.card2{
+  background-color:;
+  height:450px;
+  width:420px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left:0;
+  right:600px;
+  border-radius: 8px;
+  border-shadown:none;
+}
+i{
+  color:blue;
+}
+.soci{
+  font-size: 25px;
+  padding-left: 50px;
+  font-family: Courier,monospace;
+  font-weight: 300px;
+  font-style: oblique;
+}
